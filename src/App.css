@@ -8,3 +8,8 @@ a{
   text-decoration: none;
   color: black;
 }
+
+/*check video 84 for this*/
+*{
+  box-sizing: border-box;
+}
